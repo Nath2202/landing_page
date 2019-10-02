@@ -1328,10 +1328,12 @@ h1, h2, h3, h4, h5,
   text-align: center; }
   .post-entry-1.person-1 img {
     width: 90px;
+    height: 90px;
     border-radius: 50%;
     margin: 0 auto -45px auto; }
   .post-entry-1.person-1 .post-entry-1-contents {
-    padding-top: 4rem; }
+    padding-top: 4rem;
+    height: 400px }
 
 /* carrent */
 .feature-car-rent-box-1 {
